@@ -43,6 +43,12 @@ Download the installer from [keytype.pro/download](https://keytype.pro/download/
 The app updates itself. Windows may show a SmartScreen warning ("unknown publisher") because the
 installer is not code-signed with a paid certificate — click *More info → Run anyway*.
 
+## macOS and Linux
+
+A macOS version is planned. Until then, keytype works fully in any browser on macOS and Linux —
+just open [keytype.pro](https://keytype.pro) (Safari, Chrome or Firefox; press the browser's full-screen
+shortcut for a distraction-free trainer).
+
 ## Links
 
 - Website: https://keytype.pro

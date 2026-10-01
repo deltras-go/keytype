@@ -13,6 +13,8 @@
 - **Дуэли** с друзьями, **косметика** (кейкапы, клавиатуры, скины рук) — только за игру
 - **4 макета** (Glass, Matte, Modern, Classic), темы, свои шрифты, экранная клавиатура и подсказки пальцев
 
+**macOS и Linux.** Версия для macOS в планах. А пока keytype полностью работает в любом браузере на macOS и Linux — просто откройте [keytype.pro](https://keytype.pro/typing-test/ru) (Safari, Chrome или Firefox; для тренировки без отвлечений включите полноэкранный режим браузера).
+
 Гайды: [как печатать быстрее](https://keytype.pro/guides/how-to-type-faster/ru) · [слепая печать с нуля](https://keytype.pro/guides/touch-typing/ru) · [средняя скорость печати](https://keytype.pro/guides/average-typing-speed/ru)
 
 Telegram: https://t.me/key_type · Discord: https://discord.gg/WPdbjnNDst
