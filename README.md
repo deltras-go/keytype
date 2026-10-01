@@ -5,7 +5,7 @@
 **Free typing speed test, touch typing trainer and online typing races.**
 No ads, no paywall, no sign-up to start. 12 languages.
 
-👉 **Play in the browser: [keytype.pro](https://keytype.pro)** · 🪟 **[Download for Windows](https://keytype.pro/download/keytype-setup.exe)**
+👉 **Play in the browser: [keytype.pro](https://keytype.pro)** · 🪟 **[Download for Windows / Linux](https://keytype.pro/download)**
 
 ![keytype — typing test in the Glass layout](screenshot.png)
 
@@ -45,9 +45,8 @@ installer is not code-signed with a paid certificate — click *More info → Ru
 
 ## macOS and Linux
 
-A macOS version is planned. Until then, keytype works fully in any browser on macOS and Linux —
-just open [keytype.pro](https://keytype.pro) (Safari, Chrome or Firefox; press the browser's full-screen
-shortcut for a distraction-free trainer).
+- **Linux** — download the [.deb app](https://keytype.pro/download/keytype_amd64.deb) for Ubuntu, Debian and Mint (`sudo apt install ./keytype_amd64.deb`).
+- **macOS** — install keytype as an app without downloading anything: open [keytype.pro](https://keytype.pro) in Safari and choose **File → Add to Dock** (macOS Sonoma or newer). In Chrome or Edge on any system, use the **Install** button in the address bar.
 
 ## Links
 
